@@ -9,4 +9,4 @@ const improveDropdown = () => {
   });
 }
 
-export default improveDropdown;
+export { improveDropdown };

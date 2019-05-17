@@ -1,4 +1,4 @@
 import 'bootstrap';
-import improveDropdown from '../components/select';
+import { improveDropdown } from '../components/select';
 
 improveDropdown();
